@@ -91,7 +91,7 @@ mvn archetype:generate \
   -Dversion=1.0.0 \
   -DarchetypeGroupId=com.jasonpercus.microbean \
   -DarchetypeArtifactId=MicroBean-archetype \
-  -DarchetypeVersion=1.3.0 \
+  -DarchetypeVersion=1.4.0 \
   -DinteractiveMode=false
 ```
 
@@ -101,7 +101,7 @@ mvn archetype:generate \
 mvn archetype:generate \
   -DarchetypeGroupId=com.jasonpercus.microbean \
   -DarchetypeArtifactId=MicroBean-archetype \
-  -DarchetypeVersion=1.3.0
+  -DarchetypeVersion=1.4.0
 ```
 
 ## 🚀 Démarrage Rapide
@@ -175,7 +175,7 @@ public class FileWindowsAdapter implements FileSPI { ... }
 
 | Dépendance    | Version | Scope   |
 |---------------|---------|---------|
-| MicroBean     | 1.3.0   | Runtime |
+| MicroBean     | 1.4.0   | Runtime |
 | JUnit Jupiter | 5.14.3  | Test    |
 | ArchUnit      | 1.3.0   | Test    |
 
