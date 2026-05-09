@@ -91,7 +91,7 @@ mvn archetype:generate \
   -Dversion=1.0.0 \
   -DarchetypeGroupId=com.jasonpercus.microbean \
   -DarchetypeArtifactId=MicroBean-archetype \
-  -DarchetypeVersion=1.4.0 \
+  -DarchetypeVersion=1.4.1 \
   -DinteractiveMode=false
 ```
 
@@ -101,7 +101,7 @@ mvn archetype:generate \
 mvn archetype:generate \
   -DarchetypeGroupId=com.jasonpercus.microbean \
   -DarchetypeArtifactId=MicroBean-archetype \
-  -DarchetypeVersion=1.4.0
+  -DarchetypeVersion=1.4.1
 ```
 
 ## 🚀 Démarrage Rapide

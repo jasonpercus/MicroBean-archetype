@@ -43,6 +43,7 @@ public class ArchUnitTest {
             "java..",
             "javax..",
             "jakarta..",
+            "org.slf4j..",
             "com.jasonpercus.microbean.."
     };
 
